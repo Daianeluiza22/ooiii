@@ -1,697 +1,676 @@
+<div align="center">
+
 # 👩‍💻 Daiane Luiza do Nascimento
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=200&section=header&text=Daiane%20Luiza%20do%20Nascimento&fontSize=32&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
-</p>
+### 📊 Tecnologia da Informação | Análise de Dados | Programação
 
-<h2 align="center">📊 Tecnologia da Informação | Análise de Dados | Programação</h2>
+<img src="./assets/banner.gif" alt="Banner do perfil" width="100%">
 
-<p align="center">
-  <strong>Em formação • Aprendizado contínuo • Análise • Organização • Resolução de problemas</strong>
-</p>
-
----
-
-## 👋 Olá, seja bem-vindo(a)!
-
-Eu sou **Daiane Luiza do Nascimento**, profissional dedicada, esforçada e comprometida com meu desenvolvimento na área de **Tecnologia da Informação**.
-
-Atualmente, estou em formação na **All Net — 2026**, desenvolvendo conhecimentos em tecnologia, programação, ferramentas digitais, planilhas, gráficos e análise de informações.
-
-Tenho interesse especial em construir minha carreira na área de **Análise de Dados**, buscando transformar informações em resultados que possam auxiliar na compreensão de problemas e na tomada de decisões.
+### 🚀 Em formação • Aprendizado contínuo • Dados • Programação • Tecnologia
 
 📍 **Osasco — São Paulo, Brasil**
 
----
-
-# 🎯 Meu objetivo profissional
-
-Meu objetivo é ingressar e crescer profissionalmente na área de **Tecnologia da Informação**, com foco em:
-
-📊 **Análise de Dados**
-📈 **Dashboards e indicadores**
-📋 **Planilhas e organização de informações**
-🗄️ **Banco de dados**
-🐍 **Programação**
-💻 **Desenvolvimento de soluções tecnológicas**
-
-Estou à disposição para novas oportunidades no mercado e para continuar desenvolvendo minhas habilidades através de projetos, estudos e desafios profissionais.
+</div>
 
 ---
 
-# 💡 Sobre mim
+# 👋 Olá, seja bem-vindo(a)!
 
-Sou uma profissional que acredita que o aprendizado nunca termina.
+Meu nome é **Daiane Luiza do Nascimento**.
 
-Tenho como principais características:
+Sou uma profissional **dedicada, esforçada, organizada e comprometida com meu desenvolvimento profissional**, com interesse na área de **Tecnologia da Informação**, especialmente em **Análise de Dados**.
 
-* 🎯 Dedicação aos objetivos
-* 💪 Esforço e comprometimento
-* 🧠 Facilidade para aprender novos conhecimentos
-* 🔎 Atenção aos detalhes
-* 📊 Interesse por análise e organização de informações
-* ⚡ Busca por soluções eficientes
-* 🧩 Raciocínio lógico e resolução de problemas
-* 📚 Aprendizado contínuo
-* 🤝 Trabalho em equipe
-* 🚀 Vontade de crescer profissionalmente
-* 💻 Interesse constante por tecnologia
+Atualmente estou em formação na **All Net — 2026**, desenvolvendo conhecimentos em programação, ferramentas digitais, planilhas, gráficos, organização de informações e análise de dados.
 
-Meu objetivo é unir **tecnologia, organização e análise** para encontrar soluções cada vez melhores.
+Tenho grande interesse em aprender novas tecnologias, resolver problemas e transformar informações em resultados que possam contribuir para empresas e equipes.
+
+> 💡 **Meu objetivo é transformar conhecimento em prática, prática em projetos e projetos em oportunidades profissionais.**
 
 ---
 
-# 🧑‍💻 Áreas de interesse
+# 🎯 Objetivo profissional
+
+Busco uma oportunidade na área de **Tecnologia da Informação**, principalmente nas áreas de:
+
+* 📊 Análise de Dados
+* 📈 Dashboards e indicadores
+* 📋 Planilhas e relatórios
+* 🗄️ Banco de dados
+* 🐍 Programação
+* 💻 Desenvolvimento de soluções
+* 🔎 Organização e interpretação de informações
+
+Estou à disposição para novas oportunidades no mercado de trabalho e para continuar desenvolvendo minhas habilidades.
+
+---
+
+# 💎 Sobre mim
+
+Sou uma profissional que valoriza:
 
 ```text
-Tecnologia da Informação
-        │
-        ├── 📊 Análise de Dados
-        │      ├── Excel
-        │      ├── SQL
-        │      ├── Gráficos
-        │      └── Dashboards
-        │
-        ├── 💻 Programação
-        │      ├── Python
-        │      ├── JavaScript
-        │      ├── HTML
-        │      └── CSS
-        │
-        ├── 🗄️ Banco de Dados
-        │      └── SQL
-        │
-        └── 📈 Visualização
-               ├── Excel
-               ├── Power BI
-               └── Dashboards
+📚 APRENDIZADO
+      ↓
+💻 PRÁTICA
+      ↓
+🧠 CONHECIMENTO
+      ↓
+🔎 ANÁLISE
+      ↓
+🧩 RESOLUÇÃO DE PROBLEMAS
+      ↓
+📊 RESULTADOS
+      ↓
+🚀 CRESCIMENTO PROFISSIONAL
 ```
+
+### Minhas principais características
+
+* 🎯 Dedicada aos meus objetivos
+* 💪 Esforçada e comprometida
+* 📚 Sempre disposta a aprender
+* 🧠 Interessada em tecnologia
+* 🔎 Atenta aos detalhes
+* 📊 Interessada em dados e informações
+* 📈 Gosto de trabalhar com gráficos e indicadores
+* 📋 Interesse em planilhas e organização de informações
+* 🧩 Busco soluções para problemas
+* ⚡ Procuro desenvolver minhas atividades com eficiência
+* 🤝 Aberta ao trabalho em equipe
+* 🚀 Motivada a crescer profissionalmente
 
 ---
 
-# 🛠️ Linguagens de programação
+# 💻 Linguagens de programação
 
-### 🐍 Python
+<div align="center">
 
-Tenho interesse no uso de Python para:
+🐍 **Python**   
+🗄️ **SQL**   
+🌐 **HTML5**   
+🎨 **CSS3**   
+⚡ **JavaScript**
+
+</div>
+
+---
+
+## 🐍 Python
+
+Tenho interesse em utilizar Python para programação e análise de dados.
+
+### Possíveis aplicações
 
 * 📊 Análise de dados
-* 🧮 Tratamento de informações
+* 🧹 Tratamento de dados
 * 📈 Criação de gráficos
 * 🔄 Automação de tarefas
+* 🧮 Cálculos
 * 🧠 Lógica de programação
+
+### Exemplo de código
 
 ```python
 dados = [10, 20, 30, 40, 50]
 
 media = sum(dados) / len(dados)
 
-print(f"Média dos dados: {media}")
+print(f"Média dos dados: {media:.2f}")
+```
+
+### Exemplo de análise
+
+```python
+vendas = [1500, 2300, 1800, 3200, 4100]
+
+total = sum(vendas)
+maior_venda = max(vendas)
+
+print(f"Total: R$ {total:.2f}")
+print(f"Maior venda: R$ {maior_venda:.2f}")
 ```
 
 ---
 
-### 🗄️ SQL
+# 🗄️ SQL
 
-Interesse no uso de SQL para trabalhar com bancos de dados:
+Tenho interesse em trabalhar com bancos de dados e consultas utilizando SQL.
+
+### Exemplos de conhecimentos
+
+* `SELECT`
+* `WHERE`
+* `ORDER BY`
+* `GROUP BY`
+* `JOIN`
+* `INSERT`
+* `UPDATE`
+* `DELETE`
+* Funções de agregação
+* Consultas
+* Filtros
+* Organização de informações
+
+### Exemplo
 
 ```sql
 SELECT
-    nome,
-    salario,
-    departamento
-FROM funcionarios
-WHERE salario > 3000
-ORDER BY salario DESC;
+    produto,
+    SUM(quantidade) AS quantidade_total,
+    SUM(valor) AS faturamento
+FROM vendas
+GROUP BY produto
+ORDER BY faturamento DESC;
 ```
 
-Conhecimentos e objetivos:
+### Banco de dados
 
-* SELECT
-* WHERE
-* ORDER BY
-* GROUP BY
-* JOIN
-* INSERT
-* UPDATE
-* DELETE
-* Funções de agregação
-* Consultas e análise de informações
+```sql
+CREATE TABLE clientes (
+    id INT PRIMARY KEY,
+    nome VARCHAR(100),
+    cidade VARCHAR(100),
+    email VARCHAR(150)
+);
+```
 
 ---
 
-### 🌐 HTML5
+# 🌐 HTML5
 
 Utilização para estruturação de páginas e projetos web.
 
 ```html
-<section>
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Dashboard de Dados</title>
+</head>
+
+<body>
+
     <h1>Dashboard de Dados</h1>
-    <p>Análise de informações e indicadores.</p>
-</section>
+
+    <section>
+        <h2>Indicadores</h2>
+        <p>Vendas: R$ 125.000</p>
+        <p>Clientes: 850</p>
+    </section>
+
+</body>
+
+</html>
 ```
 
 ---
 
-### 🎨 CSS3
+# 🎨 CSS3
 
-Utilização para estilização e apresentação visual de projetos.
+Utilização para melhorar a apresentação visual dos projetos.
 
 ```css
 .dashboard {
-    display: flex;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
     gap: 20px;
+    padding: 30px;
+}
+
+.card {
     padding: 20px;
-    background-color: #f5f5f5;
+    border-radius: 12px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.10);
 }
 ```
 
 ---
 
-### ⚡ JavaScript
+# ⚡ JavaScript
 
-Interesse no desenvolvimento de páginas e aplicações interativas.
+Interesse em programação e desenvolvimento de páginas interativas.
 
 ```javascript
-const dados = [10, 20, 30, 40];
+const vendas = [1500, 2300, 1800, 3200];
 
-const total = dados.reduce((soma, valor) => soma + valor, 0);
+const total = vendas.reduce(
+    (soma, valor) => soma + valor,
+    0
+);
 
-console.log(total);
+console.log(`Total de vendas: R$ ${total}`);
 ```
 
 ---
 
-# 📊 Ferramentas para análise de dados
+# 📊 Excel — Planilhas e análise
 
-## 📗 Microsoft Excel
+Uma das áreas que quero desenvolver fortemente é o trabalho com **planilhas, gráficos, indicadores e organização de informações**.
 
-O Excel é uma das ferramentas importantes para minha formação na área de dados.
+### 📋 Recursos de interesse
 
-Tenho interesse e desenvolvimento de conhecimentos em:
-
-* 📋 Criação e organização de planilhas
+* 📑 Planilhas
+* 🔢 Fórmulas
+* 🧮 Funções
 * 📊 Gráficos
 * 📈 Indicadores
-* 🔢 Fórmulas
 * 🔎 Filtros
-* 🔄 Classificação de dados
-* 📌 Tabelas
-* 📊 Tabelas dinâmicas
-* 📈 Dashboards
-* 🧹 Organização e tratamento de dados
+* 🔃 Classificação
+* 📋 Tabelas
+* 🔄 Tabelas dinâmicas
+* 📊 Dashboards
+* 🧹 Organização de dados
+* 📈 Relatórios
 
-### Exemplos de recursos:
+---
+
+## 📊 Tipos de gráficos
 
 ```text
-📊 Gráficos
-├── Colunas
-├── Barras
-├── Linhas
-├── Pizza
-└── Área
-
-📋 Planilhas
-├── Fórmulas
-├── Tabelas
-├── Filtros
-├── Classificação
-└── Tabelas dinâmicas
+📊 Colunas
+📈 Linhas
+📉 Evolução
+🥧 Pizza
+📊 Barras
+🎯 Indicadores
+📋 Tabelas
 ```
+
+### Exemplo de estrutura de análise
+
+| Mês       |    Vendas | Clientes | Pedidos |
+| --------- | --------: | -------: | ------: |
+| Janeiro   | R$ 15.000 |      120 |     150 |
+| Fevereiro | R$ 18.500 |      145 |     180 |
+| Março     | R$ 21.000 |      170 |     205 |
+| Abril     | R$ 25.500 |      210 |     250 |
+
+### Fórmulas que posso utilizar nos estudos
+
+```text
+=SOMA()
+
+=MÉDIA()
+
+=MÁXIMO()
+
+=MÍNIMO()
+
+=SE()
+
+=CONT.SE()
+
+=SOMASE()
+
+=PROCV()
+
+=PROCX()
+```
+
+---
+
+# 🖼️ Exemplos dos meus trabalhos
+
+Quando eu desenvolver minhas planilhas e dashboards, vou adicionar imagens dos resultados ao GitHub.
+
+### 📊 Dashboard
+
+<img src="./assets/dashboard.png" alt="Dashboard de análise de dados" width="90%">
+
+### 📋 Planilha
+
+<img src="./assets/planilha.png" alt="Planilha de análise" width="90%">
+
+### 📈 Gráfico
+
+<img src="./assets/grafico.png" alt="Gráfico de análise" width="80%">
+
+> 💡 Essas imagens serão substituídas pelos meus próprios trabalhos conforme eu desenvolver os projetos.
 
 ---
 
 # 📈 Power BI
 
-Tenho interesse no desenvolvimento de conhecimentos em **Power BI** para criação de dashboards e visualização de informações.
+Tenho interesse em utilizar o Power BI para:
 
-Principais objetivos:
+* 📊 Dashboards
+* 📈 Gráficos
+* 🎯 KPIs
+* 🔎 Filtros
+* 📋 Relatórios
+* 🗂️ Organização de dados
+* 📊 Visualização de informações
+* 💡 Apresentação de resultados
 
-* 📊 Criar dashboards
-* 📈 Criar gráficos
-* 🔎 Analisar indicadores
-* 🗂️ Organizar informações
-* 📌 Criar relatórios
-* 🔄 Trabalhar com dados
-* 📱 Apresentar informações de maneira visual
-
-Exemplo de estrutura de um dashboard:
+### Fluxo de análise
 
 ```text
-┌──────────────────────────────────────────┐
-│          📊 DASHBOARD DE VENDAS          │
-├──────────────┬──────────────┬────────────┤
-│ 💰 Vendas    │ 👥 Clientes  │ 📦 Pedidos │
-│ R$ 125.000   │ 850          │ 1.240      │
-├──────────────┴──────────────┴────────────┤
-│                                          │
-│             📈 EVOLUÇÃO                  │
-│       █                                   │
-│       █       █                           │
-│   █   █   █   █       █                   │
-│   █   █   █   █   █   █                   │
-│                                          │
-├──────────────────────────────────────────┤
-│ 📊 Indicadores • 📈 Gráficos • 🔎 Dados  │
-└──────────────────────────────────────────┘
+📥 DADOS
+   ↓
+🧹 TRATAMENTO
+   ↓
+🗄️ ORGANIZAÇÃO
+   ↓
+🔎 ANÁLISE
+   ↓
+📊 GRÁFICOS
+   ↓
+📈 DASHBOARD
+   ↓
+💡 RESULTADOS
 ```
 
 ---
 
-# 🗃️ Banco de dados
+# 🧰 Ferramentas
 
-Estou desenvolvendo conhecimentos relacionados a banco de dados e SQL.
+### 💻 Programação
 
-Interesses:
+```text
+🐍 Python
+🗄️ SQL
+🌐 HTML5
+🎨 CSS3
+⚡ JavaScript
+```
 
-* 🗄️ Estrutura de bancos de dados
-* 📋 Tabelas
-* 🔑 Chaves primárias
-* 🔗 Relacionamentos
-* 🔎 Consultas
-* 📊 Extração de informações
-* 🧹 Organização dos dados
+### 📊 Dados
+
+```text
+📗 Excel
+📈 Power BI
+🗄️ SQL
+🐍 Python
+📊 Dashboards
+📋 Planilhas
+```
+
+### 🔧 Desenvolvimento
+
+```text
+🐙 GitHub
+🔧 Git
+💻 Visual Studio Code
+```
+
+### 📑 Produtividade
+
+```text
+📄 Word
+📊 Excel
+📽️ PowerPoint
+```
 
 ---
 
-# 🔧 Ferramentas
+# 🗂️ Organização dos meus projetos
 
-<p align="left">
+Quero manter meus repositórios organizados e fáceis de entender.
 
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,git,github,vscode,mysql" />
+```text
+📁 projeto-analise-dados
+│
+├── 📁 dados
+│   └── dados.csv
+│
+├── 📁 python
+│   └── analise.py
+│
+├── 📁 sql
+│   └── consultas.sql
+│
+├── 📁 excel
+│   └── analise.xlsx
+│
+├── 📁 dashboard
+│   └── dashboard.pbix
+│
+├── 📁 assets
+│   ├── banner.gif
+│   ├── dashboard.png
+│   ├── grafico.png
+│   └── planilha.png
+│
+└── README.md
+```
 
-</p>
+---
 
-### Ferramentas que fazem parte da minha área de estudo:
+# 🚀 Projetos para meu portfólio
 
-| Ferramenta   | Utilização                     |
-| ------------ | ------------------------------ |
-| 🐍 Python    | Programação e análise de dados |
-| 🗄️ SQL      | Consultas e bancos de dados    |
-| 📗 Excel     | Planilhas, gráficos e análise  |
-| 📊 Power BI  | Dashboards e visualização      |
-| 🌐 HTML      | Estrutura de páginas           |
-| 🎨 CSS       | Estilização                    |
-| ⚡ JavaScript | Interatividade e programação   |
-| 🔧 Git       | Controle de versão             |
-| 🐙 GitHub    | Projetos e portfólio           |
-| 💻 VS Code   | Desenvolvimento                |
+## 📊 01 — Análise de vendas
+
+### Objetivo
+
+Analisar dados de vendas e apresentar os principais resultados através de tabelas, gráficos e indicadores.
+
+### Ferramentas
+
+```text
+🐍 Python
+📗 Excel
+🗄️ SQL
+📈 Power BI
+```
+
+### Processo
+
+```text
+Dados
+ ↓
+Limpeza
+ ↓
+Tratamento
+ ↓
+Análise
+ ↓
+Gráficos
+ ↓
+Dashboard
+ ↓
+Conclusões
+```
+
+---
+
+# 📋 02 — Planilha de controle
+
+Projeto de organização e acompanhamento de informações através de planilhas.
+
+### Recursos
+
+* 📋 Tabelas
+* 🔢 Fórmulas
+* 🔎 Filtros
+* 📊 Gráficos
+* 📈 Indicadores
+* 🎯 KPIs
+* 📑 Relatórios
+
+---
+
+# 📈 03 — Dashboard de indicadores
+
+Criação de um painel visual para acompanhar indicadores.
+
+### Indicadores
+
+```text
+💰 Faturamento
+👥 Clientes
+📦 Pedidos
+📈 Crescimento
+🎯 Metas
+📊 Desempenho
+```
+
+---
+
+# 🐍 04 — Projeto Python
+
+Projeto para praticar programação e análise de dados.
+
+### Exemplo
+
+```python
+produtos = {
+    "Notebook": 15,
+    "Celular": 30,
+    "Tablet": 12
+}
+
+for produto, quantidade in produtos.items():
+    print(f"{produto}: {quantidade} unidades")
+```
+
+---
+
+# 🗄️ 05 — Projeto SQL
+
+Projeto para praticar consultas e organização de banco de dados.
+
+```sql
+SELECT
+    departamento,
+    COUNT(*) AS quantidade_funcionarios,
+    AVG(salario) AS salario_medio
+FROM funcionarios
+GROUP BY departamento
+ORDER BY salario_medio DESC;
+```
+
+---
+
+# 📸 Galeria de projetos
+
+Conforme meus projetos forem desenvolvidos, esta seção poderá apresentar imagens dos meus trabalhos.
+
+<div align="center">
+
+| 📊 Dashboard    | 📋 Planilha    |
+| --------------- | -------------- |
+| `dashboard.png` | `planilha.png` |
+
+| 📈 Gráfico    | 💻 Projeto    |
+| ------------- | ------------- |
+| `grafico.png` | `projeto.png` |
+
+</div>
 
 ---
 
 # 📚 Formação
 
-### 🎓 All Net — 2026
+## 🎓 All Net — 2026
 
 **Área:** Tecnologia da Informação
 
-Durante minha formação, busco desenvolver conhecimentos relacionados a:
+Durante minha formação, busco desenvolver conhecimentos em:
 
-* 💻 Tecnologia
-* 🧠 Lógica
-* 👩‍💻 Programação
-* 📊 Dados
+* 💻 Programação
+* 📊 Análise de dados
 * 📋 Planilhas
 * 📈 Gráficos
 * 🗄️ Banco de dados
-* 🔧 Ferramentas digitais
-
-Meu objetivo é transformar esses conhecimentos em projetos práticos para construir meu portfólio profissional.
+* 🔎 Organização de informações
+* 🧠 Lógica de programação
+* 🛠️ Ferramentas digitais
 
 ---
 
-# 🚀 Projetos
-
-Este GitHub será utilizado para documentar minha evolução profissional e acadêmica.
-
-## 📊 Projeto 01 — Análise de Dados
-
-**Objetivo:** analisar informações e transformar dados em indicadores.
-
-### Tecnologias:
-
-* Python
-* Excel
-* SQL
-
-### Etapas:
+# 🌱 Atualmente estudando
 
 ```text
-📥 Coleta
-   ↓
-🧹 Organização
-   ↓
-🔎 Tratamento
-   ↓
-📊 Análise
-   ↓
-📈 Visualização
-   ↓
-💡 Resultado
-```
-
----
-
-## 📈 Projeto 02 — Dashboard
-
-**Objetivo:** desenvolver um dashboard para acompanhamento de indicadores.
-
-### Recursos:
-
-* 📊 Gráficos
-* 📌 Indicadores
-* 🔎 Filtros
-* 📋 Tabelas
-* 📈 Visualização de dados
-
-**Ferramentas:**
-
-* Excel
-* Power BI
-
----
-
-## 🗄️ Projeto 03 — Banco de Dados
-
-**Objetivo:** criar uma estrutura de banco de dados para armazenar e consultar informações.
-
-**Tecnologia principal:**
-
-```text
-SQL
+🐍 Python
+🗄️ SQL
+📗 Excel
+📈 Power BI
+🌐 HTML5
+🎨 CSS3
+⚡ JavaScript
+🔧 Git
+🐙 GitHub
+📊 Análise de Dados
+📋 Planilhas
+📈 Gráficos
+🗃️ Banco de Dados
 ```
 
 ---
 
 # 📊 Minha evolução
 
-Estou construindo meu conhecimento passo a passo:
-
 ```text
-████████░░░░░░░░░░░░  Aprendizado contínuo
-
-📚 Estudos
-   ↓
-💻 Prática
-   ↓
-🧪 Projetos
-   ↓
-📊 Portfólio
-   ↓
-💼 Experiência profissional
+2026
+ │
+ ├── 📚 Formação All Net
+ │
+ ├── 💻 Programação
+ │
+ ├── 📊 Dados
+ │
+ ├── 📋 Planilhas
+ │
+ ├── 📈 Gráficos
+ │
+ ├── 🗄️ SQL
+ │
+ ├── 📊 Dashboards
+ │
+ └── 🚀 Portfólio profissional
 ```
 
-Meu GitHub será atualizado conforme novos conhecimentos e projetos forem desenvolvidos.
+Meu objetivo é transformar cada conhecimento adquirido em **projetos práticos e experiências que possam fazer parte do meu portfólio**.
 
 ---
 
-# 🌱 Atualmente estudando
+# 💼 Oportunidades
 
-* 🐍 Python
-* 🗄️ SQL
-* 📊 Excel
-* 📈 Power BI
-* 💻 Lógica de programação
-* 📊 Análise de dados
-* 📈 Gráficos e dashboards
-* 📋 Planilhas
-* 🗃️ Banco de dados
-* 🔧 Git e GitHub
-* 🌐 HTML e CSS
-* ⚡ JavaScript
+Estou disponível para novas oportunidades profissionais na área de **Tecnologia da Informação**, especialmente relacionadas a:
 
----
+### 📊 Análise de Dados
 
-# 📌 O que você encontrará neste GitHub
+### 📋 Planilhas
 
-📁 Projetos de programação
-📊 Projetos de análise de dados
-📈 Dashboards
-📋 Planilhas e estudos
-🗄️ Exercícios de SQL
-🐍 Projetos em Python
-💻 Projetos web
-📚 Exercícios desenvolvidos durante minha formação
-🚀 Projetos pessoais para desenvolvimento profissional
+### 📈 Dashboards
 
----
+### 🗄️ Banco de Dados
 
-# 💼 Objetivo profissional
+### 💻 Programação
 
-Estou em busca de uma oportunidade no mercado de trabalho na área de **Tecnologia da Informação**, com especial interesse em **Análise de Dados**.
+### 🔎 Organização e análise de informações
 
-Quero fazer parte de uma equipe onde possa:
-
-* 📚 Continuar aprendendo
-* 💻 Aplicar meus conhecimentos
-* 📊 Trabalhar com dados
-* 🧩 Resolver problemas
-* 🤝 Colaborar com profissionais
-* 🚀 Desenvolver minha carreira
-* 📈 Contribuir para os resultados da empresa
+Quero encontrar uma oportunidade onde possa **aprender, contribuir, resolver problemas e crescer profissionalmente**.
 
 ---
 
 # 📫 Contato
 
-📍 **Osasco — São Paulo, Brasil**
+<div align="center">
+
+📍 **Osasco — São Paulo — Brasil**
 
 🎓 **All Net — 2026**
 
-💼 **Área de interesse:** Análise de Dados / Tecnologia da Informação
+💼 **Área de interesse: Análise de Dados**
 
-📧 **E-mail profissional:** *adicione seu e-mail aqui*
+📧 **E-mail:** `SEU_EMAIL_AQUI`
 
-💼 **LinkedIn:** *adicione seu LinkedIn aqui*
+💼 **LinkedIn:** `SEU_LINKEDIN_AQUI`
 
----
-
-# ⭐ Obrigada pela visita!
-
-<p align="center">
-
-### 💜 "Aprender, praticar, evoluir e transformar conhecimento em resultados."
-
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=120&section=footer" />
-</p>
-<!-- Banner -->
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF,00BFFF&height=280&section=header&text=Daiane%20Luiza&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedora%20de%20Software%20%7C%20Análise%20de%20Dados&descAlignY=58"/>
-</p>
-
-<h1 align="center">👋 Olá, eu sou a Daiane Luiza</h1>
-
-<h3 align="center">
-💻 Desenvolvedora de Software em Formação • 📊 Estudante de Análise de Dados
-</h3>
-
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=7F00FF&center=true&vCenter=true&width=700&lines=Bem-vindo(a)+ao+meu+GitHub!;Apaixonada+por+Tecnologia;Desenvolvimento+de+Software;Análise+de+Dados;Python;JavaScript;SQL;Power+BI;Sempre+Aprendendo..." />
-
-</p>
+</div>
 
 ---
 
-# 👩‍💻 Sobre Mim
+<div align="center">
 
-<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+## 💜 Obrigada por visitar meu perfil!
 
-* 🎯 Em transição de carreira para Tecnologia.
-* 💜 Apaixonada por programação.
-* 📚 Estudando diariamente.
-* 🚀 Buscando minha primeira oportunidade.
-* 📍 Osasco - São Paulo - Brasil.
-* 💡 Aprendizado contínuo.
+**📚 Aprender • 💻 Praticar • 📊 Analisar • 🚀 Evoluir**
 
----
+<img src="./assets/footer.gif" alt="Animação final" width="100%">
 
-# 🚀 Desenvolvimento de Software
-
-<img align="right" width="280" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
-
-### 🌐 Front-end
-
-✅ HTML
-
-✅ CSS
-
-✅ JavaScript
-
----
-
-### ⚙️ Back-end
-
-✅ Python
-
-✅ Java
-
-✅ C#
-
-✅ PHP
-
----
-
-### 🔥 Full Stack
-
-✅ Desenvolvimento Web
-
-✅ APIs REST
-
-✅ Banco de Dados
-
----
-
-### 📱 Mobile
-
-✅ Kotlin
-
-✅ Swift
-
----
-
-### 🎮 Desenvolvimento de Jogos
-
-✅ Fundamentos de Game Development
-
----
-
-# 📊 Análise de Dados
-
-<img align="right" width="300" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
-
-✔ Excel
-
-✔ SQL
-
-✔ Power BI
-
-✔ Python
-
-✔ Tableau
-
-### Áreas
-
-📈 Business Intelligence
-
-📈 Ciência de Dados
-
-📈 Engenharia de Dados
-
-📈 Análise de Dados
-
----
-
-# 💻 Tecnologias
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,javascript,java,cs,php,kotlin,swift,git,github,vscode,mysql"/>
-
-</p>
-
----
-
-# 📈 GitHub
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 Conquistas
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SEUUSUARIO&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# 📊 Atividade
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSUARIO&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🐍 Snake Animation
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/SEUUSUARIO/SEUUSUARIO/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-# 📚 Atualmente Estudando
-
-```text
-██████████████████████████░░░░  Python
-
-████████████████████████░░░░░░  SQL
-
-██████████████████████░░░░░░░░  Power BI
-
-████████████████████░░░░░░░░░░  JavaScript
-
-██████████████████░░░░░░░░░░░░  Full Stack
-
-████████████████░░░░░░░░░░░░░░  APIs REST
-
-██████████████░░░░░░░░░░░░░░░░  Banco de Dados
-```
-
----
-
-# 🎯 Objetivo
-
-🚀 Conseguir minha primeira oportunidade como Desenvolvedora de Software ou Analista de Dados.
-
-💜 Aprender continuamente.
-
-📈 Evoluir profissionalmente.
-
-🤝 Contribuir para projetos inovadores.
-
----
-
-# 📫 Contato
-
-📧 **[daianelui006@gmail.com](mailto:daianelui006@gmail.com)**
-
-💼 LinkedIn
-
-🌐 Portfólio (Em breve)
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF,7F00FF&height=150&section=footer"/>
-
-</p>
+</div>
+melhore para adicionar com codigos de programacao adicionando elementos com imagem difen e ferramentas que eu trabalho e planilhas
